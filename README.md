@@ -155,13 +155,20 @@ BlacklistVScripts.exe
 <div align="center">
 
 ### Light Mode
-![Light Mode Interface](https://imgur.com/nzrhJfd)
+![Light Mode Interface]
+
+[Imgur](https://imgur.com/nzrhJfd)
+
 
 ### Dark Mode
-![Dark Mode Interface](https://imgur.com/URFwlL4)
+![Dark Mode Interface]
+
+[Imgur](https://imgur.com/URFwlL4)
 
 ### Live Preview
-![Live Preview](https://imgur.com/4fJNos6)
+![Live Preview]
+
+[Imgur](https://imgur.com/4fJNos6)
 
 </div>
 
