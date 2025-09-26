@@ -23,7 +23,6 @@
 - **Automatische Bilderkennung** - Erkennt Objekte in Bildern und kategorisiert sie
 - **Realistische Gewichte** - Generiert realistische Gewichte basierend auf Objektkategorien
 - **ox_inventory Kompatibel** - Erstellt perfekt formatierte Lua-Dateien
-- **Benutzerfreundlich** - Moderne UI mit Drag & Drop und Live-Preview
 
 ---
 
